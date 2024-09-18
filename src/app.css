@@ -1,0 +1,25 @@
+main {
+	display: flex;
+	padding-top: 10rem;
+	justify-content: center;
+	height: 100vh;
+	gap: 2rem;
+}
+
+.square {
+	width: 200px;
+	height: 200px;
+	background-color: blue;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+	&.twitchy {
+		background-color: red;
+	}
+}
+
+.solid {
+	background-color: red;
+}
