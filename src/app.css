@@ -23,3 +23,7 @@ main {
 .solid {
 	background-color: red;
 }
+
+.\&twitchy {
+	background-color: red;
+}

@@ -9,6 +9,7 @@ export default function Home() {
 
 			<div class="square solid">solid</div>
 			<div class="square twitchy">twitchy</div>
+			<div class="square &twitchy">twitchy</div>
 		</main>
 	)
 }
